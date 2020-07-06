@@ -1,1 +1,2 @@
 # Capstone-Project
+Electromechanical system is built to play Tic-Tac-Toe game between human and artificial intelligence. In this project, I dealt with controlling servo motors, interaction between Arduino and Raspberry Pi and displaying some instructions on LCD. However, due to the COVID-19 conditions, I wasn't be able to apply this code to a physical system. For this reason, I couln't get a feedback.
