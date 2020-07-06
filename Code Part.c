@@ -52,13 +52,13 @@ void setup() {
 
   pwm.setPWM(0, 0, SERVOMID); // We define servoPin0
   pwm.setPWM(1, 0, SERVOMID); // We define servoPin1
-  pwm.setPWM(2, 0, SERVOMID); // We define servoPin2
-  pwm.setPWM(3, 0, SERVOMID); // We define servoPin3
-  pwm.setPWM(4, 0, SERVOMID); // We define servoPin4  
-  pwm.setPWM(5, 0, SERVOMID); // We define servoPin5
-  pwm.setPWM(6, 0, SERVOMID); // We define servoPin6
-  pwm.setPWM(7, 0, SERVOMID); // We define servoPin7  
-  pwm.setPWM(8, 0, SERVOMID); // We define servoPin8
+  pwm.setPWM(2, 0, SERVOMID); 
+  pwm.setPWM(3, 0, SERVOMID); 
+  pwm.setPWM(4, 0, SERVOMID);  
+  pwm.setPWM(5, 0, SERVOMID);
+  pwm.setPWM(6, 0, SERVOMID); 
+  pwm.setPWM(7, 0, SERVOMID);  
+  pwm.setPWM(8, 0, SERVOMID); 
 }
 
 
